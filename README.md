@@ -1,7 +1,7 @@
 ### Hi there 👋
+我是大大，I am dada, Je suis dada ！ 🧑🏻‍💻 
 
-<!--
-**dadaWilliam/dadaWilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![dadaWilliam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dadaWilliam)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
