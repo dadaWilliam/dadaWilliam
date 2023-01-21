@@ -5,9 +5,9 @@
 
 ## 我是大大，I am dada, Je suis dada ！ 🧑🏻‍💻 
 
-![dadaWilliam's GitHub stats](https://github-readme-stats-plum-delta-16.vercel.app/api?username=dadaWilliam&show_icons=true)
+![dadaWilliam's GitHub stats](https://github-readme-stats-dadawilliam.vercel.app/api?username=dadaWilliam&show_icons=true)
 
-[![Top Langs](https://github-readme-stats-plum-delta-16.vercel.app/api/top-langs/?username=dadaWilliam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dadawilliam.vercel.app/api/top-langs/?username=dadaWilliam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ➡️➡️ 这是 [我的项目网站](https://edu.iamdada.xyz) ⬅️⬅️ ❤️🧡💛💚💙💜
 - 🔭 I’m currently working on Flutter, Django, HTML, CSS, Python ...
