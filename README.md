@@ -10,7 +10,7 @@
  ### ➡️➡️ This is my eduactional web: [Xueba 学霸空间](https://xueba.ca) ⬅️⬅️ (only Chinese simplified supported)
  ### ➡️➡️ This is my eduactional APP : |   [iOS](https://apps.apple.com/us/app/%E5%AD%A6%E9%9C%B8%E7%A9%BA%E9%97%B4/id6462957415)    |   [iOS beta](https://testflight.apple.com/join/7NpmNct5)   |   [Android](https://xueba.ca/download)   |   [my depo]()   | 
 
-## logos:
+
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
