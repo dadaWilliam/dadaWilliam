@@ -1,6 +1,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dadaWilliam&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-# Hi there 👋 Salut 🔆 ![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange) ![](https://img.shields.io/badge/django-4.1.5-green?style=for-the-badge&logo=django&logoColor=green) ![](https://img.shields.io/badge/flutter-3.3.10-blue?style=for-the-badge&logo=flutter&logoColor=blue)
+# Hi there 👋 Salut 🔆 ![](https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange) ![](https://img.shields.io/badge/django-4.1.5-green?style=for-the-badge&logo=django&logoColor=green) ![](https://img.shields.io/badge/flutter-3.13.9-blue?style=for-the-badge&logo=flutter&logoColor=blue)
 
 ## 我是[大大](https://me.xueba.ca)，I am [dada](https://me.xueba.ca), Je suis [dada](https://me.xueba.ca) ！ 🧑🏻‍💻 
 
@@ -8,7 +8,7 @@
 
  ### ➡️➡️ 这是 [我的项目网站](https://xueba.ca) ⬅️⬅️ ❤️🧡💛💚💙💜
  ### ➡️➡️ This is my eduactional web: [Xueba 学霸空间](https://xueba.ca) ⬅️⬅️ (only Chinese simplified supported)
- ### ➡️➡️ This is my eduactional APP : |   [iOS](https://apps.apple.com/us/app/%E5%AD%A6%E9%9C%B8%E7%A9%BA%E9%97%B4/id6462957415)    |   [iOS beta](https://testflight.apple.com/join/7NpmNct5)   |   [Android](https://xueba.ca/download)   |   [my depo]()   | 
+ ### ➡️➡️ This is my eduactional APP : |   [iOS](https://apps.apple.com/us/app/%E5%AD%A6%E9%9C%B8%E7%A9%BA%E9%97%B4/id6462957415)    |   [iOS beta](https://testflight.apple.com/join/7NpmNct5)   |   [Android](https://xueba.ca/download)   |   [APP depo](https://github.com/dadaWilliam/xueba)   |  [web depo](https://github.com/dadaWilliam/videoproject) 
 
 
 <p align="center">
