@@ -1,5 +1,8 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dadaWilliam&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,macos,vscode,xcode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,mongodb,vercel,redis,nodejs,heroku,apache,nginx,gradle)](https://github.com/Jurredr/github-widgetbox)
+
 ![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)
 ![](https://img.shields.io/badge/django-4.1.5-green?style=for-the-badge&logo=django&logoColor=green)
 ![](https://img.shields.io/badge/flutter-3.3.10-blue?style=for-the-badge&logo=flutter&logoColor=blue)
