@@ -1,11 +1,4 @@
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dadaWilliam&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,dart,js,ts,java,html,css,c,cpp,csharp,swift,kotlin,bash,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox) 
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=django,flutter,vue,react,next,bootstrap,tailwind&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,mongodb,vercel,redis,nodejs,heroku,apache,nginx,gradle&includeNames=true)](https://github.com/Jurredr/github-widgetbox) 
 
 # Hi there 👋 Salut 🔆 ![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange) ![](https://img.shields.io/badge/django-4.1.5-green?style=for-the-badge&logo=django&logoColor=green) ![](https://img.shields.io/badge/flutter-3.3.10-blue?style=for-the-badge&logo=flutter&logoColor=blue)
 
@@ -28,3 +21,10 @@
 - 😄 Pronouns: just use my name **🌈 William** 
 - ⚡ Fun fact: a **dog** person 🐶
 - 🥰 my boyfriend: **[Match](https://github.com/MatchC)**
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,dart,js,ts,java,html,css,c,cpp,csharp,swift,kotlin,bash,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox) 
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=django,flutter,vue,react,next,bootstrap,tailwind&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,mongodb,vercel,redis,nodejs,heroku,apache,nginx,gradle&includeNames=true)](https://github.com/Jurredr/github-widgetbox) 
