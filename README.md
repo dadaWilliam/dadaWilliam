@@ -3,7 +3,7 @@
 # Hi there 👋 Salut 🔆 ![](https://img.shields.io/badge/python-3.11-orange?style=for-the-badge&logo=python&logoColor=orange) ![](https://img.shields.io/badge/django-4.1.5-green?style=for-the-badge&logo=django&logoColor=green) ![](https://img.shields.io/badge/flutter-3.13.9-blue?style=for-the-badge&logo=flutter&logoColor=blue)
 
 ## 我是[大大](https://me.xueba.ca)，I am [dada](https://me.xueba.ca), Je suis [dada](https://me.xueba.ca) ！ 🧑🏻‍💻 
-## ➡️➡️ [My website: will.xueba.ca](https://will.xue.ca) ⬅️⬅️ ❤️🧡💛💚💙💜
+## ➡️➡️ [My website: will.xueba.ca](https://will.xueba.ca) ⬅️⬅️ ❤️🧡💛💚💙💜
 
 
 ![dadaWilliam's GitHub stats](https://github-readme-stats-dadawilliam.vercel.app/api?username=dadaWilliam&show_icons=true) [![Top Langs](https://github-readme-stats-dadawilliam.vercel.app/api/top-langs/?username=dadaWilliam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
